@@ -15,42 +15,15 @@ I am an aspiring **Computer Science Engineering (BE) Student** focused on writin
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://shields.io" alt="C Language" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="DSA" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="DeepakGowdaMK Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 Performance & Repository Analytics
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://vercel.app" alt="GitHub Stats" height="175px" />
-    </td>
-    <td>
-      <img src="https://vercel.app" alt="Top Languages" height="175px" />
-    </td>
-  </tr>
-</table>
+- **Languages:** C
+- **Version Control:** Git, GitHub
+- **Core Domain:** Data Structures and Algorithms (DSA)
 
 ---
 
 ### 📫 Connect with Me
 
-I'm always open to discussing Data Structures, algorithms, or collaborating on open-source initiatives.
+I'm always open to discussing Data Structures, algorithms, or collaborating on engineering initiatives!
 
-* 📧 **Email:** [deepakgowdamkd@gmail.com](mailto:your.email@example.com) 
-
+- 📧 **Email:** deepakgowdamkd@gmail.com
+- 💼 **GitHub:** [DeepakGowdaMK](https://://github.com)
